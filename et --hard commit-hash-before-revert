@@ -1,0 +1,13 @@
+[33mcommit c8b0f3db1986a96192303bb58c612e2ffe11c4ce[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Suryansh3679 <127971042+Suryansh3679@users.noreply.github.com>
+Date:   Thu Jul 18 22:16:56 2024 +0530
+
+    Revert "Initial commit of MyWishListApp project"
+    
+    This reverts commit 859dc7a02f8960f20f78300c9c2bac28b7106925.
+
+[33mcommit 859dc7a02f8960f20f78300c9c2bac28b7106925[m
+Author: Suryansh3679 <127971042+Suryansh3679@users.noreply.github.com>
+Date:   Thu Jul 18 22:11:42 2024 +0530
+
+    Initial commit of MyWishListApp project
